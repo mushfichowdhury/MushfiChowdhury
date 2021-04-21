@@ -1,3 +1,4 @@
+<img src="./header.png" />
 ### <div align="center">My name is Mushfi and I am a full-stack software engineer and a wedding photographer!</div>  
   
 
