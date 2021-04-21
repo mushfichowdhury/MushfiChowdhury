@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Technical Skills:
+Languages: <img src="https://img.shields.io/badge/-Javascript-23A9F2?style=flat-square&logo=Javascript&logoColor=white"/> • Typescript • Ruby • SQL • HTML • CSS/SASS
+Frameworks: React.js • Redux • Ruby on Rails • Express.js • Jest • Gatsby • Next.js • Tailwind CSS
+Tools: Node.js • PostgreSQL • React Hooks • RESTful API design • Adobe Creative Suite • Git • Docker • Figma
 
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
