@@ -29,7 +29,7 @@ Frameworks:
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?&style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 </p>
-Tools: Node.js • PostgreSQL • React Hooks • RESTful API design • Adobe Creative Suite • Git • Docker • Figma
+Tools:
 <p>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
