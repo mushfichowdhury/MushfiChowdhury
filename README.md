@@ -17,7 +17,7 @@ Frameworks:
     <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-2338B2AC.svg?&style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 </p>
 
 
