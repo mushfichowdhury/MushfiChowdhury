@@ -17,6 +17,7 @@ Frameworks: React.js • Redux • Ruby on Rails • Express.js • Jest • Gat
     <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-#38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
 </p>
 
 
