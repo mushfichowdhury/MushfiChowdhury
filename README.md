@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Mushfi. 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 ## Technical Skills:
 Languages: 
 <p>
@@ -19,33 +29,16 @@ Frameworks:
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?&style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 </p>
-
-
-
-
-
 Tools: Node.js • PostgreSQL • React Hooks • RESTful API design • Adobe Creative Suite • Git • Docker • Figma
-
-   <p>
+<p>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?&style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-  </p>
-  
-  [![Mushfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfichowdhury)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**mushfichowdhury/MushfiChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
