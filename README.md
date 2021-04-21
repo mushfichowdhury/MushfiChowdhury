@@ -10,6 +10,19 @@ Languages:
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 Frameworks: React.js • Redux • Ruby on Rails • Express.js • Jest • Gatsby • Next.js • Tailwind CSS
+<p>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</p>
+
+
+
+
+
 Tools: Node.js • PostgreSQL • React Hooks • RESTful API design • Adobe Creative Suite • Git • Docker • Figma
 
    <p>
