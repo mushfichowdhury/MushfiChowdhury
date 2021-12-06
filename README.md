@@ -2,10 +2,7 @@
   
 
 - 🌱  I'm currently looking for my first full-time role.  
-  
-
-- 🔭 I’m currently working on [Salat Scheduler](https://www.booksalat.com/)  
-  
+    
 
 - ⚡ Fun fact: I co-host an anime podcast, @BokuNoBotz  
   
