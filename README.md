@@ -1,4 +1,4 @@
-# My name is Mushfi and I am a frontend software engineer and a wedding photographer!
+# My name is Mushfi and I am a Software Engineer and a wedding photographer!
 
 
 ## My Skill Set  
